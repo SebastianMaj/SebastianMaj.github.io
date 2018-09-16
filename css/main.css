@@ -498,6 +498,10 @@ label.valid {
     margin-right: auto;
     float: none;
 }
+.verticalcentered {
+    display: inline-block;
+    vertical-align: middle;
+}
 /* ==========================================================================
    Responsive Settings
    ========================================================================== */
