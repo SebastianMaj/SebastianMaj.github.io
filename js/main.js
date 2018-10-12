@@ -30,7 +30,7 @@ $(document).ready(function() {
         });
 
         $('.grid-controls li a').click(function() {
-            $('.grid-controls .current').removeClass('current');
+            //$('.grid-controls .current').removeClass('current');
             $(this).addClass('current');
 
             var selector = $(this).attr('data-filter');
@@ -47,7 +47,7 @@ $(document).ready(function() {
     });
 
 
-    /* Magnific Popup */
+    /* Magnific Popup
     $('.grid-wrapper').magnificPopup({
         delegate: 'a',
         type: 'image',
@@ -55,6 +55,7 @@ $(document).ready(function() {
             enabled: true
         }
     });
+    */
 
 
     /* Sticky menu */
