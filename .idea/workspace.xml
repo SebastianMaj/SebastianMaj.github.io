@@ -2,24 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9e87395-ae22-40d5-8325-7a6b3d687771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/Build/Builds.data.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/Build/Builds.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/Build/Builds.wasm.code.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/Build/Builds.wasm.framework.unityweb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/Build/UnityLoader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/UnityProgress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/fullscreen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/progressEmpty.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/progressEmpty.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/progressFull.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/progressFull.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/progressLogo.Dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/progressLogo.Light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/TemplateData/webgl-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freelance01053/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,8 +19,8 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="770" />
+          <entry key="html" value="809" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="770" />
+          <entry key="HTML" value="809" />
         </counts>
       </usages-collector>
     </session>
@@ -68,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="295" column="29" lean-forward="true" selection-start-line="295" selection-start-column="29" selection-end-line="295" selection-end-column="29" />
+            <state relative-caret-position="391">
+              <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -113,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,7 +118,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,14 +150,16 @@
       <updated>1543194432828</updated>
       <workItem from="1543194434520" duration="3374000" />
       <workItem from="1543542567435" duration="7118000" />
+      <workItem from="1543792199093" duration="1326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10492000" />
+    <option name="totallyTimeSpent" value="11818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10953507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -203,17 +187,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/games/farmville-freelance/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="295" column="29" lean-forward="true" selection-start-line="295" selection-start-column="29" selection-end-line="295" selection-end-column="29" />
         </state>
       </provider>
     </entry>
